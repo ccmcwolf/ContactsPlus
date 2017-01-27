@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "31391171412",
+    "firebase_url": "https://contact-plus-72da0.firebaseio.com",
+    "project_id": "contact-plus-72da0",
+    "storage_bucket": "contact-plus-72da0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31391171412:android:7d234a732579fd2d",
+        "android_client_info": {
+          "package_name": "apps.zambrone.com.contactsplus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "31391171412-apjmicsgiodftma312gimvee12a2t3gc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "apps.zambrone.com.contactsplus",
+            "certificate_hash": "4808A8BD58C6E23086925CB50CA089D15DB1248F"
+          }
+        },
+        {
+          "client_id": "31391171412-ouos2l6ou41fpdql6it8ngi68qb0fffi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRQRIZyHjLskQc1UjmfTXrqG65MRSZiBI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "31391171412-ouos2l6ou41fpdql6it8ngi68qb0fffi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

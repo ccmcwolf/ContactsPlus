@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Chamith\Downloads\ContactsPlus\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2a18547ea91d258866d132c2a763185f15b01b25">
+        <dex dex="C:\Users\Chamith\Downloads\ContactsPlus\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-9.6.1_d2f49d1a5af3b24ffca72b1800bcd473b0cd5c4c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Chamith\Downloads\ContactsPlus\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="af7582c6b327449c6d32518e6a10307860b7b5d6">
+        <dex dex="C:\Users\Chamith\Downloads\ContactsPlus\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.6.1_022951bad2caee549d6b37dfd73cc1b475177a8e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Chamith\Downloads\ContactsPlus\app\build\intermediates\exploded-aar\com.rockerhieu.emojicon\library\1.3.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="bcca57571c432c186f738fccb93e4ca5bc02aada">
+        <dex dex="C:\Users\Chamith\Downloads\ContactsPlus\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.rockerhieu.emojicon-library-1.3.3_2392cb00c06954873ab89ef02c345128b1724846\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Chamith\Downloads\ContactsPlus\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="C:\Users\Chamith\Downloads\ContactsPlus\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-23.4.0_84449344d5fc3ccedd643104806e02e6fd2274a7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Chamith\Downloads\ContactsPlus\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4a36600281a648769411ef642c331851732bf29e">
+        <dex dex="C:\Users\Chamith\Downloads\ContactsPlus\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.6.1_dcaa46b85393ce787115a41d71bbe25de83e9fe9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Chamith\Downloads\ContactsPlus\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\Chamith\Downloads\ContactsPlus\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_3a67f395686be23140eec6e554187c691bcc95ab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Chamith\Downloads\ContactsPlus\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b75ecdd04a37d31b4a0da2729fc5c558962a529b">
+        <dex dex="C:\Users\Chamith\Downloads\ContactsPlus\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-9.6.1_dad2d27c6c8c49cd3deaf48b574dc4ecb6c5658a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Chamith\Downloads\ContactsPlus\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
+        <dex dex="C:\Users\Chamith\Downloads\ContactsPlus\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.6.1_f1793de80fc8e86114f7e956cc58a4250d458adc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Chamith\Downloads\ContactsPlus\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="1ef72e72bc0d05602c366582afa9439f58bb31d6">
+        <dex dex="C:\Users\Chamith\Downloads\ContactsPlus\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.6.1_7e2bb80a26c8f12e18c164235bf5371202f8e51a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Chamith\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="C:\Users\Chamith\Downloads\ContactsPlus\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.0.0_820170e036d78530caf2a59fbbc7970e21d67abe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Chamith\Downloads\ContactsPlus\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\2.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="C:\Users\Chamith\Downloads\ContactsPlus\app\build\intermediates\transforms\dex\debug\folders\1000\10\de.hdodenhof-circleimageview-2.1.0_cfd94745850d5ab4fc91007674c2e3788148a07a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Chamith\Downloads\ContactsPlus\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="C:\Users\Chamith\Downloads\ContactsPlus\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.4.0_52fe7e1fa08b28917c24b68b5797b7d6161656e7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Chamith\Downloads\ContactsPlus\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="77558e74bb2056ef38516296f13a27c4c4fc3e5c">
+        <dex dex="C:\Users\Chamith\Downloads\ContactsPlus\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-common-9.6.1_0eb1a6829474f82c60315ad9579bea78df7454ce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Chamith\Downloads\ContactsPlus\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="C:\Users\Chamith\Downloads\ContactsPlus\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.0.0_38ee333eefe6819238df9203117978b44687ee0d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Chamith\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\Chamith\Downloads\ContactsPlus\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_7a7d318d66598ae9fd4f1714ef29f72b508190f2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Chamith\Downloads\ContactsPlus\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\Chamith\Downloads\ContactsPlus\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_e1f26a6c86311015791df356f529c06311804347\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Chamith\Downloads\ContactsPlus\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a1c351dc10b92d638da57f3a6513f87cfbdc9f83">
+        <dex dex="C:\Users\Chamith\Downloads\ContactsPlus\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.6.1_f35b21bd8b96347f756f695dabe55fe8ccb919c0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Chamith\Downloads\ContactsPlus\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="C:\Users\Chamith\Downloads\ContactsPlus\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_63b64b758ae9ec054d1fc9216298aac0c9f2332e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Chamith\Downloads\ContactsPlus\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="1e14ebe1cda8491f152083e752ca5bf73cd37bff">
+        <dex dex="C:\Users\Chamith\Downloads\ContactsPlus\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.6.1_35d42a0fcdb695bbff4dcef03bbc8e67394911e4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Chamith\Downloads\ContactsPlus\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="C:\Users\Chamith\Downloads\ContactsPlus\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_95bc99c9a7653cf9b211b273985f57f7f9a0e74e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Chamith\Downloads\ContactsPlus\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6ffe8b28ab61e5ee92ab9431a220379790c71ddf">
+        <dex dex="C:\Users\Chamith\Downloads\ContactsPlus\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-module-9.6.1_10139e6712e24d7a2cafc86db08ee714749b55df\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Chamith\Downloads\ContactsPlus\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\Chamith\Downloads\ContactsPlus\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.4.0_d74f759d910d8360056e4bf8a1904c5a5be9d69b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Chamith\Downloads\ContactsPlus\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8c6ef5bd4072f8cda2b89d8356ea7d8acd0683aa">
+        <dex dex="C:\Users\Chamith\Downloads\ContactsPlus\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-9.6.1_4be871aade6185d18864590943eb72185adbc8bc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Chamith\Downloads\ContactsPlus\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="0efd1b44f47c134fb245914a1d54a55adbfc2f8d">
+        <dex dex="C:\Users\Chamith\Downloads\ContactsPlus\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.6.1_04709dfe6357ec81ea5cf9bb1efa6c4c54a8f97e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Chamith\Downloads\ContactsPlus\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4df40545c9b875855f3dd9d4928e5d07f07c20ba">
+        <dex dex="C:\Users\Chamith\Downloads\ContactsPlus\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-9.6.1_c6dc3a49684e53faf7738a68efdde9f652b86fdd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Chamith\Downloads\ContactsPlus\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\Chamith\Downloads\ContactsPlus\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_2765056cb9c6abd13c1375faa4e3ab15bc48632b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Chamith\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="C:\Users\Chamith\Downloads\ContactsPlus\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.7_001d11ef9c007b4770bb630b0ccfc799c975f2d2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Chamith\Downloads\ContactsPlus\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3d1490fbf1b34146f9c18a1780291789489b388b">
+        <dex dex="C:\Users\Chamith\Downloads\ContactsPlus\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_2fee2097320fbd1842dac70352c793fba009c653\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Chamith\Downloads\ContactsPlus\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="53e743ef999e4c707806fc0f4e63b96a078e103f">
+        <dex dex="C:\Users\Chamith\Downloads\ContactsPlus\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_b3a7d864ace6f03db6c10cdb5e75f0e590fc2caf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Chamith\Downloads\ContactsPlus\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="159494eb362396d073d8c922b77e40c0da5fc5bc">
+        <dex dex="C:\Users\Chamith\Downloads\ContactsPlus\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-9.6.1_f07d909d62387281316eeb2b68f46da4f2ad1f8d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Chamith\Downloads\ContactsPlus\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ac8365c87591065db07f7bac8551504504832cd4">
+        <dex dex="C:\Users\Chamith\Downloads\ContactsPlus\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-9.6.1_afe8f1502fd60d174c163699d7242427f203bf7e\classes.dex" />
+    </item>
+
+</items>
